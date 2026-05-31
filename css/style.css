@@ -221,8 +221,8 @@ a:hover {
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 10rem;             /* 128px */
+	height: 10rem;
 	object-fit: cover;
 	background-position: center;
 	margin-bottom: var(--spacing-l);
@@ -233,16 +233,16 @@ a:hover {
 	border-radius: 0%;
   }
 
-  /* Modifier for rounded avatar */
+  /* Modifier for rounded avatar 
   .avatar--rounded {
 	border-radius: 50%;
   }
-
-  /* Modifier for slightly rounded corners */
+*/
+  /* Modifier for slightly rounded corners
   .avatar--soft {
-	border-radius: 0.5rem;   /* 8px rounded corners */
-  }
-
+	border-radius: 0.5rem;    8px rounded corners 
+  } 
+ */
 /* Theme System
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Light theme is default above */
