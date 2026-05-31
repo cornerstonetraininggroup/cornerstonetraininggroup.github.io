@@ -1,2 +1,2 @@
 # cornerstonetraininggroup.github.io
-landing page
+Chris Wallace Coaching landing page
