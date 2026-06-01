@@ -1,2 +1,3 @@
 # cornerstonetraininggroup.github.io
-Chris Wallace Coaching landing page
+Cornerstone Training Group Coaching landing page
+Chris Wallace Founder 
